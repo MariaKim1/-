@@ -23,21 +23,24 @@ img {
     max-width: 100%;
 }
 
-#images/doris.jpg {
-        height: 2px;
-        width: 5px;
+.doris-sleeping {
+        height: 400px;
+        width: 500px;
+}
+
+.fizzypop {
+    height: 400px;
+    width: 500px;   
 }
 
 /*#favourite-snacks {
     background-color: rgb(0, 255, 255, 0.2)
 }*/
 
-nav {
-    background-color:red
-}
-
-/*background-color: rgb(0, 255, 255, 0.2)*/
-    
+/*nav {
+    background-color: rgb(0, 255, 255, 0.2)
+}*/
+   
 main {
     background-color: rgb(0, 255, 255, 0.2)
 }
